@@ -1,4 +1,4 @@
-module acme-test
+module acme-key-rollover
 
 go 1.22.4
 
